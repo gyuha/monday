@@ -1,0 +1,4 @@
+# forge: 작업 상태는 추적하지 않고 결정 기록(adr)과 용어집(CONTEXT.md)만 추적
+.forge/*
+!.forge/adr/
+!.forge/CONTEXT.md
